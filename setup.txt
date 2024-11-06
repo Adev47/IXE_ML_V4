@@ -1,0 +1,12 @@
+[design]
+highlight_color = #ed0ef7
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/ixe
+website_link = https://starware.sellauth.com/
+
+[rounded_corners]
+main_widgets = 12
