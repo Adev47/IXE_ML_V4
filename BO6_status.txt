@@ -2,3 +2,4 @@ Chair V2,online,1.00.01,https://cdn.discordapp.com/attachments/12595794325410980
 Unlock All,online,1.00.01,https://cdn.discordapp.com/attachments/1259579432541098016/1303704162617266287/bo6-UA.exe?ex=672e0a1e&is=672cb89e&hm=081c7a6fbb2149b5eb7e5bee97b7c99ea32d535fb714e9f935dc766b9b034ba2&
 Silent  Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1259579432541098016/1303707228334981170/SILENT_Chair.exe?ex=672e0cf8&is=672cbb78&hm=8b10adb56153f2402a43101cbe4612ed06c3979c0d88547f547408a4acf2258e&
 Inferno Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1259579432541098016/1303708264000655430/BO6_Inferno.exe?ex=672e0def&is=672cbc6f&hm=0035f8f2c05e945640961def10054704a1ed1771a796b1016cd87028c03f2eeb&
+External Chair,online,1.00.01,https://cdn.discordapp.com/attachments/1259579432541098016/1303708792910909491/PG1027.exe?ex=672e0e6d&is=672cbced&hm=b559d25d76b19a3b67f51d1524367c9c6520d3df73b8ba7bf2b86cdf40171bdb&
