@@ -1,1 +1,2 @@
 FiveM External,online,1.00.01,https://raw.githubusercontent.com/avod245/1183938967024959659_cloud/main/FIVEM_EXTERNAL_CHAIR.exe
+Free Woofer,online,1.00.01,https://cdn.discordapp.com/attachments/1276172086729117801/1324410209661358236/Woofer.bat?ex=67780ca0&is=6776bb20&hm=dafcc0b4e7de818f993f33594832a4cd9f742c3ac43c10aab6558eda2fbb2ccf&
